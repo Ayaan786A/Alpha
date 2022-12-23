@@ -388,16 +388,10 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
  
 logo = """
-##     ## ########          ########  #######  
-###   ### ##     ##         ##       ##     ## 
-#### #### ##     ##         ##       ##     ## 
-## ### ## ########          ######   ##     ## 
-##     ## ##   ##           ##       ##     ## 
-##     ## ##    ##          ##       ##     ## 
-##     ## ##     ## ####### ########  #######  
+#༄ᶦᶰᵈ᭄•░A░Y░A░N░♡࿐༄ᶦᶰᵈ᭄•░A░N░N░I░♡࿐
 
   \033[1;94m      ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ 
-  \033[1;93m \033[1;93m     ☬ Welcome to Mr Abbakareo Tools Hacking☬ 
+  \033[1;93m \033[1;93m     ☬ Welcome to Ayaan Anni Tools Hacking☬ 
   \033[1;94m      ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬ ☬
   \033[1;97m--------------------------------------------------
                                                                                                                          
@@ -405,11 +399,11 @@ logo = """
 \33[1;41m   𝗧𝗢𝗢𝗟𝗦 𝗨𝗣𝗗𝗔𝗧𝗘 𝗙𝗜𝗥𝗦𝗧 𝗦𝗘𝗡𝗧 𝗙𝗥𝗜𝗘𝗡𝗗 𝗥𝗘𝗤𝗨𝗘𝗦𝗧 \33[0m
 \x1b[1;97m---------------------------------------------------
 \x1b[1;97m[+] HACKING  :  HAUSAHACKER TEAM 
-\x1b[1;97m[+] GITHUB   :  https://github.com/Abbakarhacker 
-\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  abdullahi abubakar
-\x1b[1;97m[+] WHATSAPP : +23491389261
-\x1b[1;97m[+] COUNTRY  :  Nigeria Hacking Team
-\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡  :  5.7         
+\x1b[1;97m[+] GITHUB   :  https://github.com/Ayaananni 
+\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  Senior owner 
+\x1b[1;97m[+] WHATSAPP : +923175734972
+\x1b[1;97m[+] COUNTRY  :  Pakistan Hacking Team
+\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡  :  9.7         
 \x1b[1;97m--------------------------------------
 """
  
@@ -438,7 +432,7 @@ class Main:
 			print("    Thanks♥️")
 			exit() 
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open  https://www.facebook.com/profile.php?id=100087052866273 ")
+			os.system("xdg-open  https://www.facebook.com/profile.php?id=100088479414960 ")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜𝗡𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
@@ -446,7 +440,7 @@ class Main:
 			input("\n\033[1;37m Type Facebook   Name  \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m ᗯᗴᒪᑕOᗰᗴ TO ••Abbakareo•• TOOᒪՏ")
+			print("\033[1;32m ᗯᗴᒪᑕOᗰᗴ TO ••Ayaan Anni•• TOOᒪՏ")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
